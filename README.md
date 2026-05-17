@@ -1,7 +1,5 @@
-# README.md
-
 ## 关于这个账户
-简单来说，这个账户是[lm-xiao-fen](https://github.com/lm-xiao-fen)的小号
+简单来说，这个账户是[@xfcnl](//github.com/xfcnl)的小号
 
 ## 怎么得来的
 这原本是我给同学注册的账户 有一条为了恶搞他，我给他的账号添加了2fa 后来把2fa配置文件给他了，他也不会搞，加上本来用GitHub的功能就不需要登录 就把账号让给我了
